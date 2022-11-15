@@ -4,7 +4,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /*
-15:10
+15:12
  */
 @SpringBootApplication
 public class GithubProjectApplication {
