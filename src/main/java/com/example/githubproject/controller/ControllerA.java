@@ -3,6 +3,9 @@ package com.example.githubproject.controller;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 
+/*
+1
+ */
 @RequestMapping("/user")
 @Controller
 public class ControllerA {
