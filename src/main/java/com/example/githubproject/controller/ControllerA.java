@@ -12,6 +12,8 @@ public class ControllerA {
 
     @RequestMapping("/findall")
     public String findall(){
+        System.out.println("findall invoke");
+        System.out.println("66666666");
         return "findallpage";
     }
 
